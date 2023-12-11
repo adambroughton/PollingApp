@@ -1,0 +1,6 @@
+@PollAPI_HostAddress = http://localhost:5041
+
+GET {{PollAPI_HostAddress}}/polldata/
+Accept: application/json
+
+###

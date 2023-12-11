@@ -1,0 +1,99 @@
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/appsettings.json
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/PollAPI
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/PollAPI.deps.json
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/PollAPI.runtimeconfig.json
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/PollAPI.dll
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/PollAPI.pdb
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.csproj.AssemblyReference.cache
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.AssemblyInfoInputs.cache
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.AssemblyInfo.cs
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.csproj.CoreCompileInputs.cache
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/staticwebassets/msbuild.PollAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.PollAPI.props
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PollAPI.props
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PollAPI.props
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/scopedcss/bundle/PollAPI.styles.css
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.csproj.CopyComplete
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.dll
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/refint/PollAPI.dll
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.pdb
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/PollAPI.genruntimeconfig.cache
+/Users/adambroughton/Desktop/polling-app-webapi/PollAPI/obj/Debug/net8.0/ref/PollAPI.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/appsettings.Development.json
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/appsettings.json
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/PollAPI
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/PollAPI.deps.json
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/PollAPI.runtimeconfig.json
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/PollAPI.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/PollAPI.pdb
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.csproj.AssemblyReference.cache
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.AssemblyInfoInputs.cache
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.AssemblyInfo.cs
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.csproj.CoreCompileInputs.cache
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/staticwebassets/msbuild.PollAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/staticwebassets/msbuild.build.PollAPI.props
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PollAPI.props
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PollAPI.props
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/scopedcss/bundle/PollAPI.styles.css
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.csproj.CopyComplete
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/refint/PollAPI.dll
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.pdb
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/PollAPI.genruntimeconfig.cache
+/Users/adambroughton/Desktop/FINAL POLL APP/final-poll-app/app/api/obj/Debug/net8.0/ref/PollAPI.dll
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/appsettings.Development.json
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/appsettings.json
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/PollAPI
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/PollAPI.deps.json
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/PollAPI.runtimeconfig.json
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/PollAPI.dll
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/PollAPI.pdb
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adambroughton/Desktop/polling-app/app/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.csproj.AssemblyReference.cache
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.AssemblyInfoInputs.cache
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.AssemblyInfo.cs
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.csproj.CoreCompileInputs.cache
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/staticwebassets/msbuild.PollAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/staticwebassets/msbuild.build.PollAPI.props
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PollAPI.props
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PollAPI.props
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/scopedcss/bundle/PollAPI.styles.css
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.csproj.CopyComplete
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.dll
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/refint/PollAPI.dll
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.pdb
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.genruntimeconfig.cache
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/ref/PollAPI.dll
