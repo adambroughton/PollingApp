@@ -97,3 +97,4 @@
 /Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.pdb
 /Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.genruntimeconfig.cache
 /Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/ref/PollAPI.dll
+/Users/adambroughton/Desktop/polling-app/app/api/obj/Debug/net8.0/PollAPI.sourcelink.json
