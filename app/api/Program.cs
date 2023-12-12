@@ -46,8 +46,6 @@ app.MapGet("/polldata", () =>
 .WithName("GetPollData")
 .WithOpenApi();
 
-app.UseHttpsRedirection();
-
 app.UseAuthorization();
 
 app.MapControllers();
