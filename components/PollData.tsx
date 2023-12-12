@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 
 const PollData = () => {
   const [items, setItems] = useState([]);
-  const url = "http://localhost:8080/polldata";
+  const url = "http://13.40.182.181:8080/polldata";
 
   useEffect(() => {
     fetch(url)
