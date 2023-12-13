@@ -1026,24 +1026,25 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/Users/adambroughton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/PollingApp/app/api/PollAPI.csproj",
+      "projectUniqueName": "/Users/adambroughton/Desktop/polling-app/app/api/PollAPI.csproj",
       "projectName": "PollAPI",
-      "projectPath": "/home/ubuntu/PollingApp/app/api/PollAPI.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/ubuntu/PollingApp/app/api/obj/",
+      "projectPath": "/Users/adambroughton/Desktop/polling-app/app/api/PollAPI.csproj",
+      "packagesPath": "/Users/adambroughton/.nuget/packages/",
+      "outputPath": "/Users/adambroughton/Desktop/polling-app/app/api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/Users/adambroughton/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1094,7 +1095,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

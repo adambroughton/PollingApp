@@ -1,3 +1,4 @@
+import TopPerformer from "@/components/TopPerformer";
 import { Button } from "@/components/ui/button";
 
 const DashboardPage = () => {
@@ -16,9 +17,13 @@ const DashboardPage = () => {
           </Button>
         </div>
       </div>
-      <div className="mb-8 space-y-4 mt-2 border-4 bg-white w-11/12 p-8 rounded-2xl">
-        <div className="text-center">
-          <section>Top Performer:</section>
+      <div className="mb-8 space-y-4 mt-2 w-11/12 p-8 rounded-2xl">
+        <div>
+          <section>
+            <div>
+              <TopPerformer />
+            </div>
+          </section>
         </div>
       </div>
     </div>

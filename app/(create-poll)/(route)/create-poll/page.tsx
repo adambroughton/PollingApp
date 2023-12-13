@@ -11,9 +11,8 @@ const CreatePollPage = () => {
           Follow the instructions below to start a poll.
         </p>
       </div>
-      <div className="mb-8 space-y-4 mt-2 border-4 bg-white w-11/12 p-8 rounded-2xl">
+      <div className="mb-8 space-y-4 mt-2  w-11/12 p-8 rounded-2xl">
         <div className="text-center">
-          <section>poll form will go here</section>
           <CreatePoll />
         </div>
       </div>
