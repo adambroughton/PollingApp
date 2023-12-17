@@ -1,4 +1,4 @@
-**Issue with POST request onSubmit of poll creation**
+Known Issue: **POST request onSubmit of poll creation**
 
 Welcome to my polling app! 
 
