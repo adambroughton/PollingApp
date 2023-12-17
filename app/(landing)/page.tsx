@@ -78,6 +78,9 @@ const LandingPage: React.FC = () => {
               />
             </li>
             <li className="flex items-center">
+              <img src="images/SQLite.png" className="h-16 mt-4" alt="AWS" />
+            </li>
+            <li className="flex items-center">
               <img src="images/aws.png" className="h-16 mt-4" alt="AWS" />
             </li>
           </ul>
