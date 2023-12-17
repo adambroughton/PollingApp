@@ -11,3 +11,14 @@ I plan to change this once the app has more features like:
 * Poll analytics on the dashboard
 * Poll creation form to have dynamic options
 * And many more...
+
+List of technologies used:
+* React
+* Next.js
+* Node.js
+* Tailwindcss
+* TypeScript
+* C#
+* Microsoft DOTNET
+* SQLite3
+* AWS
