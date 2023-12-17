@@ -20,9 +20,7 @@ const DashboardPage = () => {
       <div className="mb-8 space-y-4 mt-2 w-11/12 p-8 rounded-2xl">
         <div>
           <section>
-            <div>
-              <TopPerformer />
-            </div>
+            <div>{/* <TopPerformer /> */}</div>
           </section>
         </div>
       </div>

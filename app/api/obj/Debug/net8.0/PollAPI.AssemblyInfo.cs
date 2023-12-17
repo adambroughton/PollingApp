@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PollAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beec4e587f6a85a7b9e1069f0655f23c46bd3a04")]
 [assembly: System.Reflection.AssemblyProductAttribute("PollAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PollAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
