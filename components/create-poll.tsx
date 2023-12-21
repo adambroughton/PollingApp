@@ -2,7 +2,7 @@
 import { PollData } from "@/app/types";
 
 const CreatePoll = () => {
-  function handleFormSubmit(e: any) {
+  async function handleFormSubmit(e: any) {
     e.preventDefault();
 
     const requestBody: PollData = {
@@ -23,7 +23,7 @@ const CreatePoll = () => {
     }
 
     const url = "http://13.40.182.181:8080/addpolldata";
-    fetch(url, {
+    await fetch(url, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(requestBody),
