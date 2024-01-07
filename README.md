@@ -2,6 +2,11 @@ Welcome to my polling app!
 
 This is now live at: http://www.adambroughton.co.uk/
 
+You can login using the following dev account, 
+
+**Username: test
+Password: polltest123**
+
 
 Please see the project plan & powerpoint listed as: Polling_App_Project_Plan_&_PowerPoint.zip
 
